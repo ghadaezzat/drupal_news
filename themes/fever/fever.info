@@ -1,0 +1,28 @@
+name        = Fever
+description = Theme design by <a href="http://www.antsin.com">Antsin</a> - Drupal 7 port by <a href="http://itapplication.net">itapplication</a>.
+screenshot  = screenshot.png
+core        = 7.x
+
+stylesheets[all][]   = css/fever.css
+stylesheets[all][]   = css/custom.css
+
+regions[header]               = Header
+regions[search]               = Search
+regions[navbar]               = Navigation bar
+regions[help]                 = Help
+regions[showcase]             = Showcase
+regions[content]              = Content
+regions[content_bottom_one]   = Content bottom one
+regions[content_bottom_two]   = Content bottom two
+regions[content_bottom_three] = Content bottom three
+regions[content_bottom_four]  = Content bottom four
+regions[content_bottom_five]  = Content bottom five
+regions[first_sidebar]        = Left sidebar
+regions[second_sidebar]       = Right sidebar
+
+; Information added by drupal.org packaging script on 2013-09-06
+version = "7.x-1.0-alpha1"
+core = "7.x"
+project = "fever"
+datestamp = "1378503972"
+
