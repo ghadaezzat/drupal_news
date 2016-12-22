@@ -1,0 +1,3 @@
+Fever is a multi-purpose magazine style theme. It is the second Drupal theme developed by Antsin.com and released under the GPL. 
+
+Fever Drupal theme suits perfectly for news, sports, gaming, entertainment, etc. It is three columns, fix width theme. Two flexible sidebars can be switched on/off. Fourteen block regions, including a large Showcase block that allows you to display a rotating headline beautifully. Five content bottom regions can be structured more interesting way. Stylish white color tune combines with orange color links and buttons, it gives your site a clean, professional look and feel.
